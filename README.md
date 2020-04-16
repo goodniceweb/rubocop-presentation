@@ -1,8 +1,6 @@
-# iTechArt presentation template
+# RuboCop presentation
 
-Integration of comporative template with [remark](https://github.com/gnab/remark) slideshow tool.
-
-Their [Demo](https://github.com/gnab/remark)
+Made with [remark](https://github.com/gnab/remark) slideshow tool. Their [Demo](https://github.com/gnab/remark)
 
 ## How to use
 
