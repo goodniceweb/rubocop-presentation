@@ -12,7 +12,7 @@
 
 .first-page__caption {
   margin: 0 0 0 28px;
-  width: 228px;
+  width: 350px;
   color: #ccc;
   text-align: left;
   font-family: Ubuntu;
@@ -27,6 +27,7 @@
 
 .first-page__footer-image {
   width: 130px;
+  margin-bottom: 50px;
 }
 
 /* end first page styles*/
@@ -43,3 +44,21 @@
 }
 
 /* end regular page styles */
+/* overrides */
+
+.remark-slide-content h1 {
+  font-size: 68px;
+  margin-bottom: 72px;
+}
+.remark-slide-content p, .remark-slide-content ol, .remark-slide-content ul {
+  font-size: 40px;
+  line-height: 64px;
+}
+.remark-slide-content pre {
+  font-size: 32px;
+}
+.remark-slide-content ol, .remark-slide-content ul, .remark-slide-content pre {
+  text-align: left;
+}
+
+/* end overrides */
